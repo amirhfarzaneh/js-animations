@@ -1,0 +1,23 @@
+{
+  "name": "js-animations",
+  "version": "1.0.0",
+  "description": "This repository contains a simple demonstration of the Anime.js JavaScript animation library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirhfarzaneh/js-animations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirhfarzaneh/js-animations/issues"
+  },
+  "homepage": "https://github.com/amirhfarzaneh/js-animations#readme",
+  "dependencies": {
+    "animejs": "^4.0.1"
+  }
+}
